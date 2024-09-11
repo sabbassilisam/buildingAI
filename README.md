@@ -1,0 +1,2 @@
+# buildingAI
+My AI idea 
