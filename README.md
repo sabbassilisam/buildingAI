@@ -1,9 +1,14 @@
 # A smarter way to track (and manage) chronic diseases
 
 Final project for the Building AI course
-
+ 
 ## Summary
 The Smart Health Tracker is a wearable device designed to monitor vital signs and activity levels for individuals with chronic conditions. Created by a fashion enthusiast, it ensures that health monitoring does not compromise your style, seamlessly integrating into your outfits. It provides real-time data to both users and healthcare providers, aiming to enhance disease management and patient care through personalized insights and alerts.
+
+Building AI course project
+
+## Description
+Smart Health Tracker is a stylish wearable that monitors vital signs and activity for individuals with chronic conditions. It provides real-time data to users and healthcare providers, blending functionality with fashion to enhance daily health management.
 
 ## Background
 * problem 1: Managing regular and accurate health monitoring can be a challenge for individuals with chronic diseases. 
